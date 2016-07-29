@@ -1,3 +1,4 @@
+/*Pavlo's part begins here*/
 @import 'https://fonts.googleapis.com/css?family=Andika&subset=cyrillic,cyrillic-ext';
 body{
     font-family: 'Andika', sans-serif;
@@ -76,3 +77,4 @@ img:hover{
     filter: blur(3px);
     cursor: pointer;
 }
+/*Pavlo's part ends here*/

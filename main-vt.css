@@ -1,0 +1,84 @@
+.container_complains {
+	background: #fefeec;
+}
+
+.block_arrow {
+	height: 820px;
+}
+
+.icon {
+	padding-bottom: 10px;
+}
+
+.block_complains h1{
+	padding-top: 60px;
+	text-align: center;
+	font-size: 24px;
+	color: #928ba2;
+}
+
+.block_complains p{
+	text-align: center;
+	font-size: 20px;
+	color: #333333;
+}
+
+.block_complains img{
+	margin: auto;
+}
+
+
+.block_arrow {
+	background: #e8e8d9;
+}
+
+
+.block_contacts {
+	background: #e4e1eb;
+	text-align: center;
+}
+
+.block_contacts h1 {
+	line-height: 30px;
+	font-size: 30px;
+	padding-top: 110px;
+	padding-bottom: 35px;
+}
+
+.block_contacts p{
+	line-height: 24px;
+	font-size: 24px;	
+}
+
+.block_contacts .email {
+	padding: 35px 0px;
+}
+
+.block_contacts_icons {
+	padding-bottom: 128px;
+}
+
+.icons {
+	margin: auto;
+}
+
+.bar_above_contacts {
+	background: #fafaef;
+	height: 40px;
+}
+
+.bar_below_contacts {
+	background: #fafaef;
+	height: 78px;
+}
+
+.bar_below_contacts p {
+	color: #928ba2;
+	padding-top: 30px;
+	font-size: 20px;
+}
+
+.bar_below_contacts span {
+	color: #333333;
+}
+
