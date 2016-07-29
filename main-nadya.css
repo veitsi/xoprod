@@ -1,0 +1,107 @@
+/*=====================SHOWREAL=====================*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#video-background {
+    position: fixed;
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto;
+    z-index: -100;
+}
+
+.clear{
+    clear: both;
+}
+
+article {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+}
+
+h1 {
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    font-size: 36px;
+    letter-spacing: 3px;
+    color: #fff;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+}
+
+/*=====================HEADER=============================*/
+
+
+header{
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+header>a{  
+    border: 1px solid white;
+    padding: 10px 40px;
+}
+
+img{
+    width: 100%;
+}
+
+@media(max-width: 991px){
+    .tel{display: none;}
+}
+
+/*=================================Anything===================*/
+
+.showreal, .portfolio, .price, .review, .contact {
+    margin-bottom: 250px;
+}
+
+
+.showreal{
+    width: 100%;
+    height: 800px;
+}
+
+.portfolio{
+    width: 100%;
+    height: 800px;
+    background-color: lightyellow; 
+}
+
+.price{
+    width: 100%;
+    height: 800px;
+    background-color: lightgreen;
+}
+
+.review{
+    width: 100%;
+    height: 800px;
+    background-color: pink;
+}
+
+.contact{
+    width: 100%;
+    height: 800px;
+    background-color: lightblue;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: #333;
+}
