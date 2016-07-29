@@ -1,0 +1,21 @@
+{
+  "name": "xoprod",
+  "homepage": "https://github.com/veitsi/xoprod",
+  "authors": [
+    "pydev <xtfkpi@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
